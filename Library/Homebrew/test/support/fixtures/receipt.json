@@ -30,7 +30,7 @@
       "tap": "homebrew/core",
       "spec": "stable",
       "versions": {
-        "stable": "2.14",
+        "stable": "2.24",
         "devel": "2.15",
         "head": "HEAD-0000000"
       }
